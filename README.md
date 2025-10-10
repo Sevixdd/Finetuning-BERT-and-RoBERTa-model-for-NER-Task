@@ -48,13 +48,13 @@ The project uses the **PLOD-CW** and **PLOD-filtered** datasets from Surrey NLP,
 - Pre-trained on English text
 - Fine-tuned for token classification
 - Hyperparameter optimization with W&B sweeps
-https://huggingface.co/Sevixdd/bert-base-uncased-finetuned-ner
+- Hugging Face: https://huggingface.co/Sevixdd/bert-base-uncased-finetuned-ner
 
 ### 2. RoBERTa Base (roberta-base)
 - Robustly optimized BERT approach
 - Enhanced training methodology
 - Comparative analysis with BERT
-https://huggingface.co/Sevixdd/roberta-base-finetuned-ner
+- Hugging Face: https://huggingface.co/Sevixdd/roberta-base-finetuned-ner
 
 ### 3. Conditional Random Fields (CRF)
 - Traditional sequence labeling approach
