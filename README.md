@@ -39,8 +39,8 @@ The project uses the **PLOD-CW** and **PLOD-filtered** datasets from Surrey NLP,
 ### Dataset Distribution
 - **B-O (Outside)**: 82.98% (4,378,676 tokens)
 - **B-AC (Academic)**: 3.49% (184,042 tokens)  
-- **B-LF (Life Form)**: 7.72% (407,268 tokens)
-- **I-LF (Inside Life Form)**: 5.82% (307,003 tokens)
+- **B-LF (Long Form)**: 7.72% (407,268 tokens)
+- **I-LF (Inside Long Form)**: 5.82% (307,003 tokens)
 
 ## 🤖 Models Implemented
 
